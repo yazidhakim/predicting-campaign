@@ -26,15 +26,8 @@ Logistic Regression
 
 Random Forest Classifier
 
-Proses meliputi:
 
-Preprocessing data numerik dan kategorikal
-
-One-Hot Encoding untuk fitur seperti Subscription_Tier dan Keywords
-
-Balancing data jika diperlukan (misalnya menggunakan SMOTE)
-
-Evaluasi menggunakan:
+Evaluasi Model yang digunakan:
 1. Accuracy
 2. Precision
 3. Recall
